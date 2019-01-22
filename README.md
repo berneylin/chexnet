@@ -2,7 +2,7 @@
 
 This repository contains the code of PyTorch version for CheXNet introduced in the following paper:
 
-[CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning][https://arxiv.org/pdf/1711.05225.pdf]
+[CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
 
 The heat map of proceeding implementation:
 
